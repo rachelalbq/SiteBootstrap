@@ -1,0 +1,17 @@
+.image-header {
+    background-image: url(https://img.cdn4dd.com/cdn-cgi/image/fit=cover,width=1200,format=auto,quality=60/https://cdn.doordash.com/media/consumer/home/landing/new/hero_landing_us_alt.jpg);
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.welcome {
+    background-color: rgb(245, 228, 228);
+}
+
+.img-app {
+    width: 30%;
+    height: 50px;
+    border-radius: 10px;
+}
